@@ -1,0 +1,14 @@
+video
+
+Abstração - Abstrair um objetoda vida real para a programação.
+Exemplo: caneta, pessoa ou carro.
+
+Herança - Irá pegar as caracteristicas da abstração e criar objetos como propriedades em comum.
+
+Polimorfismo - Criar caracteristicas especificas para o objeto.
+
+Encapsulamento - Funciona da seguinte forma, tenho um metodo que será publico e possui metodos private. Queremos saver
+o que será executado mais será um objeto deve expor somente o necessário, sem anecessidade de contar como algo foi
+ realizado, desde que essealgo seja feito.
+
+ Resumo está nas imagens.
