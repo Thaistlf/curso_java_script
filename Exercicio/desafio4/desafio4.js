@@ -11,13 +11,13 @@ function calcular(){
     var mensagem;
 
     if (result_media < 4){
-               mensagem = "Você está reprovado!";
+        mensagem = "Você está reprovado!";
     }else{
         if(result_media < 6){
-               mensagem = "Você está de recuperação!";
+            mensagem = "Você está de recuperação!";
 
         }else{
-              mensagem = "Você está aprovado!";
+            mensagem = "Você está aprovado!";
         }
 
     }
